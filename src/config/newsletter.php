@@ -29,10 +29,10 @@ return [
 
         'user' => 1,
 
-        'group'    => 0,
-        'rule'     => 0,
-        'rule-hit' => 0,
-        'site'     => 0
+        'group'     => 0,
+        'rule'      => 0,
+        'rule-hit'  => 0,
+        'site-mall' => 0,
     ],
 
     /*
